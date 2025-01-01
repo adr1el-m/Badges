@@ -1,1 +1,1 @@
-console.log("edrian");
+print('edrian')
